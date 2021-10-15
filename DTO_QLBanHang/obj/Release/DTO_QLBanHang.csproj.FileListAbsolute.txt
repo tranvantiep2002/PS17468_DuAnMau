@@ -1,0 +1,6 @@
+C:\Users\TranVanTiep\Desktop\Assignment\code_du_an\DuAnMau\DTO_QLBanHang\bin\Release\DTO_QLBanHang.dll
+C:\Users\TranVanTiep\Desktop\Assignment\code_du_an\DuAnMau\DTO_QLBanHang\bin\Release\DTO_QLBanHang.pdb
+C:\Users\TranVanTiep\Desktop\Assignment\code_du_an\DuAnMau\DTO_QLBanHang\obj\Release\DTO_QLBanHang.csprojAssemblyReference.cache
+C:\Users\TranVanTiep\Desktop\Assignment\code_du_an\DuAnMau\DTO_QLBanHang\obj\Release\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\TranVanTiep\Desktop\Assignment\code_du_an\DuAnMau\DTO_QLBanHang\obj\Release\DTO_QLBanHang.dll
+C:\Users\TranVanTiep\Desktop\Assignment\code_du_an\DuAnMau\DTO_QLBanHang\obj\Release\DTO_QLBanHang.pdb
